@@ -48,6 +48,6 @@ For comprehensive understanding and further details, the columns are described i
   - [Compute Feature Matrix With Feature Tools and Dask](https://github.com/Giorgi-Tabatadze/home-credit-default-risk-kaggle-home-credit-group/blob/main/compute_feature_matrix.ipynb)
  - [Compute Time Feature Matrix With Dask And FT](https://github.com/Giorgi-Tabatadze/home-credit-default-risk-kaggle-home-credit-group/blob/main/time_features_compute.ipynb)
 - [Feature Selection](https://github.com/Giorgi-Tabatadze/home-credit-default-risk-kaggle-home-credit-group/blob/main/feature_selection.ipynb)
- - [Baesian Search](https://github.com/Giorgi-Tabatadze/home-credit-default-risk-kaggle-home-credit-group/blob/main/baesian_search.ipynb)
+ - [Bayesian Search](https://github.com/Giorgi-Tabatadze/home-credit-default-risk-kaggle-home-credit-group/blob/main/baesian_search.ipynb)
 
 
